@@ -37,9 +37,9 @@ int main(int argc, char **argv)
     }
   }
 
-  std::cout << "Looping " << niter << " times."
+  /*std::cout << "Looping " << niter << " times."
             << " Problem size nx is: " << nx << std::endl;
-
+*/
   //////////////////////////////////////////
   // Initialize
   a = new double[nx];
@@ -67,7 +67,9 @@ int main(int argc, char **argv)
   delete[] b;
   delete[] c;
 
-  std::cout << "Ttotal: " << timer.elapsed() 
+  /*std::cout << "Ttotal: " << timer.elapsed() 
             << " Titer: " << timer.elapsed() / niter 
             << " Telem: " << timer.elapsed() / niter / nx << std::endl;
+  */
+ std::cout << timer.elapsed() << ";" << timer.elapsed() << ";" << timer.elapsed() / niter / nx << std::endl;
 }
