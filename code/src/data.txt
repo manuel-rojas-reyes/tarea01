@@ -1,0 +1,325 @@
+Rep 1:
+Looping 10000 times. Problem size nx is: 15000
+Ttotal: 453 Titer: 0.0453 Telem: 3.02e-06
+Rep 2:
+Looping 10000 times. Problem size nx is: 15000
+Ttotal: 461 Titer: 0.0461 Telem: 3.07333e-06
+Rep 3:
+Looping 10000 times. Problem size nx is: 15000
+Ttotal: 525 Titer: 0.0525 Telem: 3.5e-06
+Rep 4:
+Looping 10000 times. Problem size nx is: 15000
+Ttotal: 465 Titer: 0.0465 Telem: 3.1e-06
+Rep 5:
+Looping 10000 times. Problem size nx is: 15000
+Ttotal: 453 Titer: 0.0453 Telem: 3.02e-06
+
+Rep 1:
+Looping 10000 times. Problem size nx is: 30000
+Ttotal: 982 Titer: 0.0982 Telem: 3.27333e-06
+Rep 2:
+Looping 10000 times. Problem size nx is: 30000
+Ttotal: 957 Titer: 0.0957 Telem: 3.19e-06
+Rep 3:
+Looping 10000 times. Problem size nx is: 30000
+Ttotal: 995 Titer: 0.0995 Telem: 3.31667e-06
+Rep 4:
+Looping 10000 times. Problem size nx is: 30000
+Ttotal: 972 Titer: 0.0972 Telem: 3.24e-06
+Rep 5:
+Looping 10000 times. Problem size nx is: 30000
+Ttotal: 969 Titer: 0.0969 Telem: 3.23e-06
+
+Rep 1:
+Looping 10000 times. Problem size nx is: 45000
+Ttotal: 1470 Titer: 0.147 Telem: 3.26667e-06
+Rep 2:
+Looping 10000 times. Problem size nx is: 45000
+Ttotal: 1399 Titer: 0.1399 Telem: 3.10889e-06
+Rep 3:
+Looping 10000 times. Problem size nx is: 45000
+Ttotal: 1423 Titer: 0.1423 Telem: 3.16222e-06
+Rep 4:
+Looping 10000 times. Problem size nx is: 45000
+Ttotal: 1524 Titer: 0.1524 Telem: 3.38667e-06
+Rep 5:
+Looping 10000 times. Problem size nx is: 45000
+Ttotal: 1544 Titer: 0.1544 Telem: 3.43111e-06
+
+Rep 1:
+Looping 10000 times. Problem size nx is: 60000
+Ttotal: 1889 Titer: 0.1889 Telem: 3.14833e-06
+Rep 2:
+Looping 10000 times. Problem size nx is: 60000
+Ttotal: 1884 Titer: 0.1884 Telem: 3.14e-06
+Rep 3:
+Looping 10000 times. Problem size nx is: 60000
+Ttotal: 1866 Titer: 0.1866 Telem: 3.11e-06
+Rep 4:
+Looping 10000 times. Problem size nx is: 60000
+Ttotal: 1999 Titer: 0.1999 Telem: 3.33167e-06
+Rep 5:
+Looping 10000 times. Problem size nx is: 60000
+Ttotal: 1876 Titer: 0.1876 Telem: 3.12667e-06
+
+
+Rep 1:
+Looping 20000 times. Problem size nx is: 15000
+Ttotal: 907 Titer: 0.04535 Telem: 3.02333e-06
+Rep 2:
+Looping 20000 times. Problem size nx is: 15000
+Ttotal: 1006 Titer: 0.0503 Telem: 3.35333e-06
+Rep 3:
+Looping 20000 times. Problem size nx is: 15000
+Ttotal: 919 Titer: 0.04595 Telem: 3.06333e-06
+Rep 4:
+Looping 20000 times. Problem size nx is: 15000
+Ttotal: 906 Titer: 0.0453 Telem: 3.02e-06
+Rep 5:
+Looping 20000 times. Problem size nx is: 15000
+Ttotal: 925 Titer: 0.04625 Telem: 3.08333e-06
+
+Rep 1:
+Looping 20000 times. Problem size nx is: 30000
+Ttotal: 1859 Titer: 0.09295 Telem: 3.09833e-06
+Rep 2:
+Looping 20000 times. Problem size nx is: 30000
+Ttotal: 1970 Titer: 0.0985 Telem: 3.28333e-06
+Rep 3:
+Looping 20000 times. Problem size nx is: 30000
+Ttotal: 1913 Titer: 0.09565 Telem: 3.18833e-06
+Rep 4:
+Looping 20000 times. Problem size nx is: 30000
+Ttotal: 1959 Titer: 0.09795 Telem: 3.265e-06
+Rep 5:
+Looping 20000 times. Problem size nx is: 30000
+Ttotal: 1906 Titer: 0.0953 Telem: 3.17667e-06
+
+Rep 1:
+Looping 20000 times. Problem size nx is: 45000
+Ttotal: 2804 Titer: 0.1402 Telem: 3.11556e-06
+Rep 2:
+Looping 20000 times. Problem size nx is: 45000
+Ttotal: 2808 Titer: 0.1404 Telem: 3.12e-06
+Rep 3:
+Looping 20000 times. Problem size nx is: 45000
+Ttotal: 2977 Titer: 0.14885 Telem: 3.30778e-06
+Rep 4:
+Looping 20000 times. Problem size nx is: 45000
+Ttotal: 2797 Titer: 0.13985 Telem: 3.10778e-06
+Rep 5:
+Looping 20000 times. Problem size nx is: 45000
+Ttotal: 2801 Titer: 0.14005 Telem: 3.11222e-06
+
+Rep 1:
+Looping 20000 times. Problem size nx is: 60000
+Ttotal: 3805 Titer: 0.19025 Telem: 3.17083e-06
+Rep 2:
+Looping 20000 times. Problem size nx is: 60000
+Ttotal: 3752 Titer: 0.1876 Telem: 3.12667e-06
+Rep 3:
+Looping 20000 times. Problem size nx is: 60000
+Ttotal: 3880 Titer: 0.194 Telem: 3.23333e-06
+Rep 4:
+Looping 20000 times. Problem size nx is: 60000
+Ttotal: 4109 Titer: 0.20545 Telem: 3.42417e-06
+Rep 5:
+Looping 20000 times. Problem size nx is: 60000
+Ttotal: 3812 Titer: 0.1906 Telem: 3.17667e-06
+
+
+Rep 1:
+Looping 30000 times. Problem size nx is: 15000
+Ttotal: 1481 Titer: 0.0493667 Telem: 3.29111e-06
+Rep 2:
+Looping 30000 times. Problem size nx is: 15000
+Ttotal: 1377 Titer: 0.0459 Telem: 3.06e-06
+Rep 3:
+Looping 30000 times. Problem size nx is: 15000
+Ttotal: 1372 Titer: 0.0457333 Telem: 3.04889e-06
+Rep 4:
+Looping 30000 times. Problem size nx is: 15000
+Ttotal: 1359 Titer: 0.0453 Telem: 3.02e-06
+Rep 5:
+Looping 30000 times. Problem size nx is: 15000
+Ttotal: 1380 Titer: 0.046 Telem: 3.06667e-06
+
+Rep 1:
+Looping 30000 times. Problem size nx is: 30000
+Ttotal: 2773 Titer: 0.0924333 Telem: 3.08111e-06
+Rep 2:
+Looping 30000 times. Problem size nx is: 30000
+Ttotal: 2812 Titer: 0.0937333 Telem: 3.12444e-06
+Rep 3:
+Looping 30000 times. Problem size nx is: 30000
+Ttotal: 2880 Titer: 0.096 Telem: 3.2e-06
+Rep 4:
+Looping 30000 times. Problem size nx is: 30000
+Ttotal: 2794 Titer: 0.0931333 Telem: 3.10444e-06
+Rep 5:
+Looping 30000 times. Problem size nx is: 30000
+Ttotal: 2943 Titer: 0.0981 Telem: 3.27e-06
+
+Rep 1:
+Looping 30000 times. Problem size nx is: 45000
+Ttotal: 4307 Titer: 0.143567 Telem: 3.19037e-06
+Rep 2:
+Looping 30000 times. Problem size nx is: 45000
+Ttotal: 4528 Titer: 0.150933 Telem: 3.35407e-06
+Rep 3:
+Looping 30000 times. Problem size nx is: 45000
+Ttotal: 4220 Titer: 0.140667 Telem: 3.12593e-06
+Rep 4:
+Looping 30000 times. Problem size nx is: 45000
+Ttotal: 4215 Titer: 0.1405 Telem: 3.12222e-06
+Rep 5:
+Looping 30000 times. Problem size nx is: 45000
+Ttotal: 4265 Titer: 0.142167 Telem: 3.15926e-06
+
+Rep 1:
+Looping 30000 times. Problem size nx is: 60000
+Ttotal: 5712 Titer: 0.1904 Telem: 3.17333e-06
+Rep 2:
+Looping 30000 times. Problem size nx is: 60000
+Ttotal: 5806 Titer: 0.193533 Telem: 3.22556e-06
+Rep 3:
+Looping 30000 times. Problem size nx is: 60000
+Ttotal: 5754 Titer: 0.1918 Telem: 3.19667e-06
+Rep 4:
+Looping 30000 times. Problem size nx is: 60000
+Ttotal: 5588 Titer: 0.186267 Telem: 3.10444e-06
+Rep 5:
+Looping 30000 times. Problem size nx is: 60000
+Ttotal: 5860 Titer: 0.195333 Telem: 3.25556e-06
+
+
+Rep 1:
+Looping 40000 times. Problem size nx is: 15000
+Ttotal: 1811 Titer: 0.045275 Telem: 3.01833e-06
+Rep 2:
+Looping 40000 times. Problem size nx is: 15000
+Ttotal: 1815 Titer: 0.045375 Telem: 3.025e-06
+Rep 3:
+Looping 40000 times. Problem size nx is: 15000
+Ttotal: 1916 Titer: 0.0479 Telem: 3.19333e-06
+Rep 4:
+Looping 40000 times. Problem size nx is: 15000
+Ttotal: 1819 Titer: 0.045475 Telem: 3.03167e-06
+Rep 5:
+Looping 40000 times. Problem size nx is: 15000
+Ttotal: 1849 Titer: 0.046225 Telem: 3.08167e-06
+
+Rep 1:
+Looping 40000 times. Problem size nx is: 30000
+Ttotal: 3921 Titer: 0.098025 Telem: 3.2675e-06
+Rep 2:
+Looping 40000 times. Problem size nx is: 30000
+Ttotal: 3732 Titer: 0.0933 Telem: 3.11e-06
+Rep 3:
+Looping 40000 times. Problem size nx is: 30000
+Ttotal: 3832 Titer: 0.0958 Telem: 3.19333e-06
+Rep 4:
+Looping 40000 times. Problem size nx is: 30000
+Ttotal: 3737 Titer: 0.093425 Telem: 3.11417e-06
+Rep 5:
+Looping 40000 times. Problem size nx is: 30000
+Ttotal: 3850 Titer: 0.09625 Telem: 3.20833e-06
+
+Rep 1:
+Looping 40000 times. Problem size nx is: 45000
+Ttotal: 5579 Titer: 0.139475 Telem: 3.09944e-06
+Rep 2:
+Looping 40000 times. Problem size nx is: 45000
+Ttotal: 6339 Titer: 0.158475 Telem: 3.52167e-06
+Rep 3:
+Looping 40000 times. Problem size nx is: 45000
+Ttotal: 6081 Titer: 0.152025 Telem: 3.37833e-06
+Rep 4:
+Looping 40000 times. Problem size nx is: 45000
+Ttotal: 5761 Titer: 0.144025 Telem: 3.20056e-06
+Rep 5:
+Looping 40000 times. Problem size nx is: 45000
+Ttotal: 5682 Titer: 0.14205 Telem: 3.15667e-06
+
+Rep 1:
+Looping 40000 times. Problem size nx is: 60000
+Ttotal: 7836 Titer: 0.1959 Telem: 3.265e-06
+Rep 2:
+Looping 40000 times. Problem size nx is: 60000
+Ttotal: 7779 Titer: 0.194475 Telem: 3.24125e-06
+Rep 3:
+Looping 40000 times. Problem size nx is: 60000
+Ttotal: 7727 Titer: 0.193175 Telem: 3.21958e-06
+Rep 4:
+Looping 40000 times. Problem size nx is: 60000
+Ttotal: 7588 Titer: 0.1897 Telem: 3.16167e-06
+Rep 5:
+Looping 40000 times. Problem size nx is: 60000
+Ttotal: 7558 Titer: 0.18895 Telem: 3.14917e-06
+
+
+Rep 1:
+Looping 50000 times. Problem size nx is: 15000
+Ttotal: 2304 Titer: 0.04608 Telem: 3.072e-06
+Rep 2:
+Looping 50000 times. Problem size nx is: 15000
+Ttotal: 2323 Titer: 0.04646 Telem: 3.09733e-06
+Rep 3:
+Looping 50000 times. Problem size nx is: 15000
+Ttotal: 2340 Titer: 0.0468 Telem: 3.12e-06
+Rep 4:
+Looping 50000 times. Problem size nx is: 15000
+Ttotal: 2392 Titer: 0.04784 Telem: 3.18933e-06
+Rep 5:
+Looping 50000 times. Problem size nx is: 15000
+Ttotal: 2275 Titer: 0.0455 Telem: 3.03333e-06
+
+Rep 1:
+Looping 50000 times. Problem size nx is: 30000
+Ttotal: 4648 Titer: 0.09296 Telem: 3.09867e-06
+Rep 2:
+Looping 50000 times. Problem size nx is: 30000
+Ttotal: 4775 Titer: 0.0955 Telem: 3.18333e-06
+Rep 3:
+Looping 50000 times. Problem size nx is: 30000
+Ttotal: 4663 Titer: 0.09326 Telem: 3.10867e-06
+Rep 4:
+Looping 50000 times. Problem size nx is: 30000
+Ttotal: 4773 Titer: 0.09546 Telem: 3.182e-06
+Rep 5:
+Looping 50000 times. Problem size nx is: 30000
+Ttotal: 4742 Titer: 0.09484 Telem: 3.16133e-06
+
+Rep 1:
+Looping 50000 times. Problem size nx is: 45000
+Ttotal: 7314 Titer: 0.14628 Telem: 3.25067e-06
+Rep 2:
+Looping 50000 times. Problem size nx is: 45000
+Ttotal: 7194 Titer: 0.14388 Telem: 3.19733e-06
+Rep 3:
+Looping 50000 times. Problem size nx is: 45000
+Ttotal: 7143 Titer: 0.14286 Telem: 3.17467e-06
+Rep 4:
+Looping 50000 times. Problem size nx is: 45000
+Ttotal: 7461 Titer: 0.14922 Telem: 3.316e-06
+Rep 5:
+Looping 50000 times. Problem size nx is: 45000
+Ttotal: 7237 Titer: 0.14474 Telem: 3.21644e-06
+
+Rep 1:
+Looping 50000 times. Problem size nx is: 60000
+Ttotal: 9806 Titer: 0.19612 Telem: 3.26867e-06
+Rep 2:
+Looping 50000 times. Problem size nx is: 60000
+Ttotal: 9637 Titer: 0.19274 Telem: 3.21233e-06
+Rep 3:
+Looping 50000 times. Problem size nx is: 60000
+Ttotal: 10345 Titer: 0.2069 Telem: 3.44833e-06
+Rep 4:
+Looping 50000 times. Problem size nx is: 60000
+Ttotal: 10065 Titer: 0.2013 Telem: 3.355e-06
+Rep 5:
+Looping 50000 times. Problem size nx is: 60000
+Ttotal: 10012 Titer: 0.20024 Telem: 3.33733e-06
+
+
