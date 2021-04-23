@@ -13,7 +13,7 @@ Contiene el directorio **src** y el Makefile del proyecto
 
 ## code/src
 
-Contiene los códigos fuente del proyecto y el Makefile
+Contiene los códigos fuente del proyecto, un script para ejecutar todos los valores que eran necesarios y el Makefile
 
 ### code/src/include
 
