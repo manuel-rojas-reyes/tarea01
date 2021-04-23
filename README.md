@@ -1,3 +1,12 @@
+```
+/projects/$USER/
+	+ tarea01/
+		+ code/
+			- Makefile
+			+ src/
+		- README.txt	
+```
+
 # code
 
 Contiene el directorio **src** y el Makefile del proyecto
@@ -6,6 +15,6 @@ Contiene el directorio **src** y el Makefile del proyecto
 
 Contiene los códigos fuente del proyecto y el Makefile
 
-## code/src/include
+### code/src/include
 
 Contiene bibliotecas útiles como las que son para medir tiempos, imprimir por pantalla, abrir archivos, etc.
