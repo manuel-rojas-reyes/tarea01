@@ -7,12 +7,12 @@ for t in "${nt[@]}"
 do
     for x in "${nx[@]}"
     do
-        echo "$t;$x"
-        for n in 1 2 3 4 5
-        do
+        #echo "$t;$x"
+        #for n in 1 2 3 4 5
+        #do
             #echo "Rep $n:"
             eval "./main -nt $t -nx $x"
-        done
+        #done
         echo ""
     done
     echo ""
