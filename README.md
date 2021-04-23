@@ -1,5 +1,5 @@
 ```
-/projects/$USER/
+/projects/mrojasr/
 	+ tarea01/
 		+ code/
 			- Makefile
